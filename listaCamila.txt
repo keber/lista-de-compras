@@ -1,8 +1,4 @@
 1 serrucho
 3 maderas
-<<<<<<< HEAD
-1 piña
-=======
 1 piña
 1 colador
->>>>>>> rama_camila
