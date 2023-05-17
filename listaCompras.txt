@@ -18,3 +18,9 @@ Agrego elementos a la lista!
 1 kg de leche en polvo
 1 kg de arroz
 1 lt de aceite
+
+Ùltimos elementos:
+1 serrucho
+3 maderas
+1 piña
+1 colador
